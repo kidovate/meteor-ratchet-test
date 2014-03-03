@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "ratchet": {
+        "path": "../meteor-ratchet"
+      }
+    },
+    "packages": {
+      "ratchet": {
+        "path": "../meteor-ratchet"
+      }
+    }
+  }
+}
